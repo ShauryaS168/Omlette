@@ -1,2 +1,1 @@
-# Omlette
-Recipe for omlette
+This is a recipe about how to make an Omlette step by step
